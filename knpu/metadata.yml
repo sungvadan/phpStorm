@@ -1,0 +1,58 @@
+title:  Lean and Mean Dev with PhpStorm (for Symfony) 
+summary: |
+    Have you ever written out a long `use` statement by hand
+    or navigated deep directories to find a file? Then your
+    development is about to get *a lot* faster.
+    
+    PhpStorm makes modern Php development a joy - *especially*
+    for Symfony2 users. In this tutorial, we'll use PhpStorm
+    to take a lot of the grunt work out of your coding and help
+    you get things done faster:
+    
+    * Get the life-changing Symfony plugin
+    * Auto-complete namespaces (please stop typing them)!
+    * Tricks for annotations, Doctrine, forms, Twig and more
+    * Refactoring
+    * Live Templates
+    * Fast navigation
+    * Symfony service integration
+    * .... (and always) well-intentioned jokes.
+
+illustration: phpstorm.png
+hasVideoDownload: 0
+
+tuts_hero:
+    start_step: start
+    finish_step: ~
+
+chapters:
+    setup:
+        is_free:    true
+        video_key:  140094425
+    annotations:
+        is_free:    true
+        video_key:  140094423
+    twig:
+        is_free:    true
+        video_key:  140094424
+    namespaces:
+        is_free:    true
+        video_key:  140094426
+    doctrine:
+        is_free:    true
+        video_key:  140094417
+    forms:
+        is_free:    true
+        video_key:  140094422
+    live-templates:
+        is_free:    true
+        video_key:  140094419
+    fast-navigating:
+        is_free:    true
+        video_key:  140094421
+    refactoring:
+        is_free:    true
+        video_key:  140094418
+    service-shortcuts:
+        is_free:    true
+        video_key:  140094420

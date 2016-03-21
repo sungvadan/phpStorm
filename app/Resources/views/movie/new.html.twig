@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>new Samuel Jason Movies</h1>
+    <a href="{{ path('movies_list') }}">Back to list </a>
+    {{ include(':movie:_form.html.twig') }}
+    <p>
+        {{ quote }}
+        {{ 'now'|date('Y-m-d') }}
+    </p>
+{% endblock %}
